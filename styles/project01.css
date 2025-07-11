@@ -1,0 +1,41 @@
+.inter{
+    font-family: Inter;
+}
+
+body{
+    background-image: url('../Hero-bg.png');
+    max-width: 1140px;
+
+}
+nav{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     margin: 0px 200px;
+}
+.nav-title{
+    /* font-family: Inter ; */
+    font-weight: 34px;
+    color: #4E47FF;
+}
+.btn-primary{
+    background-color: #4E47FF;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 15px;
+    
+   
+}
+.banner-content{
+    margin: 310px 270px;
+    text-align: center;
+}
+.Cool{
+    max-width: 900px;
+    font: 65px;
+    font-weight: bold;
+    color: #252432;
+    
+}
