@@ -95,6 +95,14 @@ footer{
     display: inline-block;
     margin:0 5px;
 }
-.action{
+.final-head{
+    text-align: justify;
+    margin-left: 200px;
+    font-size: 97px;
+    font-weight: bold;
+}
+.reaction{
     display: flex;
+    justify-content: right;
+    margin-right: 200px;
 }
