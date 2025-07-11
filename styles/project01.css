@@ -56,12 +56,45 @@ nav{
     text-align: center;
 
 }
+ul{
+    text-align: center;
+    gap: 10px;
+}
+li{
+    display: inline-block;
+    margin:0 5px;
+
+}
 .list-items{
     text-align: center;
-    display:flex
+    display:flex;
+    gap: 10px;
+
     
 
 }
 .data-container{
     text-align: center;
+}
+footer{
+    text-align: center;
+}
+.heading{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.paragraph{
+    text-align: center;
+    max-width: 531px;
+    max-height: 177px;
+    margin-left: 550px;
+}
+
+.li-container{
+    display: inline-block;
+    margin:0 5px;
+}
+.action{
+    display: flex;
 }
