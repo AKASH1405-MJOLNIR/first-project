@@ -4,7 +4,8 @@
 
 body{
     background-image: url('../Hero-bg.png');
-    max-width: 1140px;
+    /* width: 500px; */
+background-position: top;
 
 }
 nav{
@@ -25,6 +26,8 @@ nav{
     color: #FFFFFF;
     font-weight: bold;
     font-size: 15px;
+    padding: 5px 10px;
+    /* border: none; */
     
    
 }
@@ -38,4 +41,27 @@ nav{
     font-weight: bold;
     color: #252432;
     
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 810px 400px;
+   
+}
+.mini{
+    border-radius: 50px;
+    width: 420px 320px;
+}
+.middle{
+    text-align: center;
+
+}
+.list-items{
+    text-align: center;
+    display:flex
+    
+
+}
+.data-container{
+    text-align: center;
 }
